@@ -1,0 +1,20 @@
+{
+  "name": "cemin",
+  "version": "1.0.0",
+  "description": "un progrma que facilita la realización de recetas de archivos de CEMIN.\r la pantalla debe mostras los siguientes datos: NOMBRE; APELLIDO; OBRA SOCIAL; EDAD; DIRECCION; FECHA; FIRMA; \r Tambienlos datos de la drogra: DROGA; MILIGRAMOS; TIPO DE PASTILLA; MARCA; CANTIDAD POR DIA; CUANTAS PASTILLAS TRAE;\r que sea didactico y comprensible poor mi mamaaaaaa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgustinDelfino/CEMIN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgustinDelfino/CEMIN/issues"
+  },
+  "homepage": "https://github.com/AgustinDelfino/CEMIN#readme"
+}
