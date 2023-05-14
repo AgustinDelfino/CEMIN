@@ -37,3 +37,17 @@ header {
   display: flex;
   justify-content: flex-start
 }
+
+.time-firma {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dni-age {
+  display: flex;
+}
+
+.drug {
+  display: flex;
+  flex-flow: wrap;
+}
